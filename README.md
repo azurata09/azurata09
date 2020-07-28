@@ -3,8 +3,7 @@
 ## About me
 I am student learning software engineering in a prefectural high school, Okinawa, Japan.
 
-SNS accounts
-|Account name|Link|
+|Service|Account|
 |-|-|
 |Twitter|[@azurata45](https://twitter.com/azurata45/)|
 |Instagram|[azurata45](https://www.instagram.com/azurata45/)|
