@@ -3,6 +3,8 @@
 ## About me
 I am student learning software engineering in a prefectural high school, Okinawa, Japan.
 
+More -> [https://azurata.me](https://azurata.me)
+
 |Service|Account|
 |-|-|
 |Twitter|[@azurata45](https://twitter.com/azurata45/)|
@@ -25,7 +27,6 @@ I am student learning software engineering in a prefectural high school, Okinawa
 - Networking
   - Standard Knowledge
   - Operating Cisco IOS
-  - Learned in Cisco Networking Academy
 
 ## Awards
 - ET Robot Software Design Contest in Okinawa, Grand Champion
