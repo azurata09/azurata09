@@ -25,7 +25,6 @@ More -> [https://azurata.me](https://azurata.me)
   - Vue.js
   - Nuxt.js
 - Networking
-  - Standard Knowledge
   - Operating Cisco IOS
 
 ## Awards
@@ -33,6 +32,10 @@ More -> [https://azurata.me](https://azurata.me)
 
 ## Qualified
 - IT Passport(National examination in Japan)
+- Cisco Networking Academy
+  - CCNA R&S: Introduction to Networks
+  - CCNA R&S: Routing and Switching Essentials
+  - Introduction to Cybersecurity
 
 ## Presentation
 - [About I used Vue.js in a hackathon recently](https://speakerdeck.com/azurata45/kofalseqian-chu-tahatukasondevue-dot-jswoshi-tutahua)
