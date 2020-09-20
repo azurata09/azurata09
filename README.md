@@ -1,7 +1,7 @@
 # azurata45
 
 ## About me
-I am student learning software engineering in a prefectural high school, Okinawa, Japan.
+I am a student learning software engineering in a prefectural high school, Okinawa, Japan.
 
 More -> [https://azurata.me](https://azurata.me)
 
