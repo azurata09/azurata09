@@ -1,7 +1,8 @@
 # azurata45
 
 ## About me
-I am a student learning software engineering in a prefectural high school, Okinawa, Japan.
+I am a student learning software engineering in a prefectural high school, Okinawa, Japan.  
+Next year, I'll join a university in Hokkaido. I'll be secret of university name until March.
 
 More -> [https://azurata.me](https://azurata.me)
 
@@ -36,6 +37,7 @@ More -> [https://azurata.me](https://azurata.me)
   - CCNA R&S: Introduction to Networks
   - CCNA R&S: Routing and Switching Essentials
   - Introduction to Cybersecurity
+- EIKEN Pre-2 Grade
 
 ## Presentation
 - [About I used Vue.js in a hackathon recently](https://speakerdeck.com/azurata45/kofalseqian-chu-tahatukasondevue-dot-jswoshi-tutahua)
