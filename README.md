@@ -41,3 +41,18 @@ More -> [https://azurata.me](https://azurata.me)
 
 ## Presentation
 - [About I used Vue.js in a hackathon recently](https://speakerdeck.com/azurata45/kofalseqian-chu-tahatukasondevue-dot-jswoshi-tutahua)
+
+## Links
+[Mail](mailto:azurata45@vivaldi.net)
+[Twitter](https://twitter.com/azurata45)
+[Instagram](https://www.instagram.com/azurata45)
+[IM@STODON](https://imastodon.net/@azurata)
+[Keybase](https://keybase.io/azurata)
+[Telegram](https://telegram.me/azurata)
+[Blogger](https://blog.azurata.me)
+[GitHub](https://github.com/azurata45)
+[GitLab](https://gitlab.com/azurata45)
+[AtCoder](https://atcoder.jp/users/azurata)
+[yukicoder](https://yukicoder.me/users/8237)
+[connpass](https://connpass.com/user/azurata)
+[SpeakerDeck](https://speakerdeck.com/azurata45)
