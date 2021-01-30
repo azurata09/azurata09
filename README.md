@@ -43,7 +43,7 @@ More -> [https://azurata.me](https://azurata.me)
 - [About I used Vue.js in a hackathon recently](https://speakerdeck.com/azurata45/kofalseqian-chu-tahatukasondevue-dot-jswoshi-tutahua)
 
 ## Links
-[Mail](mailto:azurata45@vivaldi.net)
+[Mail](mailto:contact@azurata.me)
 [Twitter](https://twitter.com/azurata45)
 [Instagram](https://www.instagram.com/azurata45)
 [IM@STODON](https://imastodon.net/@azurata)
