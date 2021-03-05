@@ -2,7 +2,6 @@
 
 ## About me
 I am a student learning software engineering in a prefectural high school, Okinawa, Japan.  
-Next year, I'll join a university in Hokkaido. I'll be secret of university name until March.
 
 More -> [https://azurata.me](https://azurata.me)
 
