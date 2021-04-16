@@ -1,17 +1,16 @@
 # azurata45
 
 ## About me
-I am a student learning computer engineering in a Hakodate, Japan.  
+I am a student learning computer engineering in a Hokkaido, Japan.  
 
 More -> [https://azurata.me](https://azurata.me)
 
+## SNS
 |Service|Account|
 |-|-|
 |Twitter|[@azurata45](https://twitter.com/azurata45/)|
 |Instagram|[azurata45](https://www.instagram.com/azurata45/)|
-|Blogger|[blog.azurata.me](https://blog.azurata.me/)|
 |SpeakerDeck|[azurata45](https://speakerdeck.com/azurata45)|
-|Keybase|[azurata](https://keybase.io/azurata)|
 
 ## Skills
 - Object-Oriented-Programming
