@@ -1,10 +1,13 @@
 # azurata09
 
 ## About me
-I am a student learning computer engineering in a Hokkaido, Japan.  
+I am a student learning information science in a Hokkaido, Japan.  
 
-More -> [https://azurata.me](https://azurata.me)
+More -> [https://www.azurata.me](https://www.azurata.me)
 
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azurata09)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azurata09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=azurata&count_private=true&show_icons=true&show_icons=true" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azurata09&layout=compact&count_private=true&show_icons=true&show_icons=true" />
+</p>
