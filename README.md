@@ -4,7 +4,7 @@
 
 - **Affiliation:** [Future University Hakodate](https://www.fun.ac.jp/en/)
 - **Research:** Stress Estimation based Task Management.
-- **Experience:** **Software Developer (Part-time)** at a tech company.
+- **Experience:** Software Developer (Part-time) at a some tech company.
 - **Interests:** Ubiquitous Computing / Software Engineering / Project Management
 
 ### 🛠 Tech Stack
