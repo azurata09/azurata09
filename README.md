@@ -1,13 +1,23 @@
-# azurata09
+# Hi, I'm S.Naka a.k.a azurata 👋
 
-## About me
-I am a student learning information science in a Hokkaido, Japan.  
+### 🎓 Undergraduate CS Student
 
-More -> [https://www.azurata.me](https://www.azurata.me)
+- **Affiliation:** [Future University Hakodate](https://www.fun.ac.jp/en/)
+- **Research:** Stress Estimation based Task Management.
+- **Experience:** **Software Developer (Part-time)** at a tech company.
+- **Interests:** Ubiquitous Computing / Software Engineering / Project Management
 
-## Stats
+### 🛠 Tech Stack
 
-<p>
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=azurata09&count_private=true&show_icons=true&show_icons=true" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azurata09&layout=compact&count_private=true&show_icons=true&show_icons=true" />
-</p>
+- **Frontend:** React, Vue.js, TypeScript
+- **Backend:** Node.js, Python
+- **Others:** Embedded Systems, AWS, UML Design, Team Leadership, Agile
+
+### 🏆 Key Project: ET Robocon
+
+- **Team Leader (5 consecutive years)**
+- Led embedded system design and development. I prioritize the **"Why"** behind every technical decision and focus on team-driven results.
+
+### ❤️ Off-duty
+
+- 🎹 THE IDOLM@STER (Huge Fan!)
