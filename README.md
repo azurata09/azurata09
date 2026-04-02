@@ -1,6 +1,6 @@
 # Hi, I'm S.Naka a.k.a azurata 👋
 
-### 🎓 Undergraduate CS Student
+### 🎓 Graduate CS Student
 
 - **Affiliation:** [Future University Hakodate](https://www.fun.ac.jp/en/)
 - **Research:** Stress Estimation based Task Management.
